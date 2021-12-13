@@ -13,7 +13,7 @@
     "react-native-vector-icons": "^0.8.5"
   },
   "devDependencies": {
-    "flow-bin": "0.17.0"
+    "flow-bin": "0.165.1"
   },
   "engines": {
     "node": "4.2.1",
